@@ -1,0 +1,1 @@
+ビルドはVisualStudioと.NET4.72が必要
